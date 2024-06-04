@@ -23,7 +23,11 @@ Le projet est implémenté en Python et utilise des bibliothèques telles que re
 L'exécution du code nécessite l'installation des bibliothèques requises et un accès à Internet.
 Des instructions détaillées pour l'utilisation du projet seront fournies dans la documentation.
 
-##Impact:
+Il suffit seulement de lancer le script python, un prompt demandera le premier mot, une relation
+ainsi qu'un dernier mot, puis affichera les conclusions qu'il a pu
+réaliser.
+
+## Impact:
 Ce projet peut être utile pour les linguistes, les lexicographes, les développeurs de systèmes de traitement du langage naturel, et toute personne intéressée par l'exploration des relations entre les mots.
 Les résultats obtenus peuvent contribuer à l'amélioration des outils de traduction automatique, de recherche d'information, et d'analyse de texte.
 
